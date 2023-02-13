@@ -8,7 +8,7 @@ Seguindo as aulas do curso, fui capaz de desenvolver um script para o nodeJS que
 
 1. Com o seu terminal aberto, navegue até o diretório onde deseja que o repositório seja clonado e utilize o seguinte comando:
 ```
-https://github.com/BeatriceMacruz/Indiviual-5/edit/main/README.md
+https://github.com/BeatriceMacruz/Indiviual-5.git
 ```
 2. Crie o package.json
 ```
